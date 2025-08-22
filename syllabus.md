@@ -5,7 +5,7 @@ permalink: /syllabus
 ---
 
 
-#Syllabus
+# Syllabus
 
-##Etc..
-###Etc...
+## Etc..
+### Etc...
