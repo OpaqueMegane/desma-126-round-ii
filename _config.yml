@@ -21,9 +21,10 @@
 domain: opaquemegane.github.io
 url: https://opaquemegane.github.io
 
-title: Your awesome title
-email: your-email@example.com
+title: DMA 126 Fall 2025
+email: alexrickett@ucla.edu
 description: >- # this means to ignore newlines until "baseurl:"
+  Game Engines
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -32,8 +33,15 @@ baseurl: /desma-126-round-ii/ # the subpath of your site, e.g. /blog
 twitter_username: ""
 github_username:  ""
 
+header_pages:
+  - syllabus.md
+  - schedule.md
+  - assignments.md
+
 # Build settings
 theme: minima
+minima:
+  skin: dark # or auto if you want it to switch with your system settings.
 plugins:
   - jekyll-feed
 
